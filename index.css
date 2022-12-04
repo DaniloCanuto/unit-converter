@@ -1,0 +1,92 @@
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Inter;
+}
+
+#hero {
+    background: #6943FF;
+    width: 550px;
+    height: 285px;
+    text-align: center;
+    margin: 0 auto;
+}
+
+#title {
+    padding-top: 33px;
+    color: #FFFFFF;
+}
+
+#input {
+    margin-top: 30px;
+    width: 117px;
+    height: 83px;
+    background: #6943FF;
+    border: 2px solid #B295FF;
+    border-radius: 5px;
+    color: #FFFFFF;
+    font-weight: 800;
+    font-size: 58px;
+    line-height: 24px;
+}
+
+#convert-btn {
+    color: #3D3D3D;
+    background: #FFFFFF;
+    margin-top: 25px;
+    width: 117px;
+    height: 42px;
+    border-radius: 5px;
+    border: none;
+}
+
+#main {
+    vertical-align: top;
+    background: #F4F4F4;
+    width: 550px;
+    height: 444px;
+    text-align: center;
+    margin: 0 auto 0 auto;
+    padding: 10px 0;
+}
+
+#meters-section {
+    background: #FFFFFF;
+    color: #353535;
+    width: 500px;
+    height: 108.57px;
+    margin: 26px auto 0 auto;
+}
+
+#meters-title {
+    padding-top: 31px;
+}
+
+#volume-section {
+    background: #FFFFFF;
+    color: #353535;
+    width: 500px;
+    height: 108.57px;
+    margin: 32px auto 0 auto;
+}
+
+#volume-title {
+    padding-top: 31px;
+}
+
+
+#mass-section {
+    background: #FFFFFF;
+    color: #353535;
+    width: 500px;
+    height: 108.57px;
+    margin: 32px auto 0 auto;
+}
+
+#mass-title {
+    padding-top: 31px;
+}
+
+#input {
+    text-align: center;
+}
